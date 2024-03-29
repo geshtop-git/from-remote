@@ -1,7 +1,7 @@
 let num1 = 0
 let num2 = 0
 let action =1
-let timer = 0;
+let timer = 0; //the timer of the test
 let correctAns = action ===1? num1 + num2 :  num1  *  num2;
 
 const questionEl = document.getElementById("question");
